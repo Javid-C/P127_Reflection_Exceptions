@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\P127_Reflection_Exceptions\P127_Reflection_Exceptions\bin\Debug\netcoreapp3.1\P127_Reflection_Exceptions.exe
+C:\Users\Lenovo\source\repos\P127_Reflection_Exceptions\P127_Reflection_Exceptions\bin\Debug\netcoreapp3.1\P127_Reflection_Exceptions.deps.json
+C:\Users\Lenovo\source\repos\P127_Reflection_Exceptions\P127_Reflection_Exceptions\bin\Debug\netcoreapp3.1\P127_Reflection_Exceptions.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P127_Reflection_Exceptions\P127_Reflection_Exceptions\bin\Debug\netcoreapp3.1\P127_Reflection_Exceptions.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\P127_Reflection_Exceptions\P127_Reflection_Exceptions\bin\Debug\netcoreapp3.1\P127_Reflection_Exceptions.dll
+C:\Users\Lenovo\source\repos\P127_Reflection_Exceptions\P127_Reflection_Exceptions\bin\Debug\netcoreapp3.1\P127_Reflection_Exceptions.pdb
+C:\Users\Lenovo\source\repos\P127_Reflection_Exceptions\P127_Reflection_Exceptions\obj\Debug\netcoreapp3.1\P127_Reflection_Exceptions.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P127_Reflection_Exceptions\P127_Reflection_Exceptions\obj\Debug\netcoreapp3.1\P127_Reflection_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P127_Reflection_Exceptions\P127_Reflection_Exceptions\obj\Debug\netcoreapp3.1\P127_Reflection_Exceptions.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P127_Reflection_Exceptions\P127_Reflection_Exceptions\obj\Debug\netcoreapp3.1\P127_Reflection_Exceptions.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P127_Reflection_Exceptions\P127_Reflection_Exceptions\obj\Debug\netcoreapp3.1\P127_Reflection_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P127_Reflection_Exceptions\P127_Reflection_Exceptions\obj\Debug\netcoreapp3.1\P127_Reflection_Exceptions.dll
+C:\Users\Lenovo\source\repos\P127_Reflection_Exceptions\P127_Reflection_Exceptions\obj\Debug\netcoreapp3.1\P127_Reflection_Exceptions.pdb
+C:\Users\Lenovo\source\repos\P127_Reflection_Exceptions\P127_Reflection_Exceptions\obj\Debug\netcoreapp3.1\P127_Reflection_Exceptions.genruntimeconfig.cache
